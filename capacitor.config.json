@@ -1,0 +1,11 @@
+{
+  "appId": "com.com",
+  "appName": "employees",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
